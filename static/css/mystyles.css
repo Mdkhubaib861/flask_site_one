@@ -1,0 +1,16 @@
+*
+{
+    padding:0px;
+    margin:0px;
+    box-sizing:content-box
+}
+
+h1
+{
+    color:darkcyan
+}
+p
+{
+    padding:10px;
+    margin:10px
+}
